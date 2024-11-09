@@ -20,4 +20,4 @@ Use this as a starting point to complete the WDD 330 team activity: the SleepOut
 - `npm run format` to run Prettier to automatically format your code.
 ## url of the sleepoutside project
 
-- 'https://byui-cse.github.io/wdd330-ww-course/week01/team.html'
+- 'https://672f68b7aeb49a43639128f5--team13-fall24-sleepoutside.netlify.app/'
